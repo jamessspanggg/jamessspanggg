@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 <div>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="jamessspanggg's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jamessspanggg&show_icons=true&hide_border=true" />
+  <img align="left" alt="jamessspanggg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamessspanggg&show_icons=true&hide_border=true" />
 </div>
+
 <div>
   <summary>💻 Top Languages</summary>
   <img align='left' alt="jamessspanggg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamessspanggg&layout=compact" />
